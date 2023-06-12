@@ -1,0 +1,22 @@
+.increase{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: green;
+    cursor: pointer;
+    color: white;
+    border: none;
+    align-items: center;
+}
+
+.decrease{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: red;
+    cursor: pointer;
+    color: white;
+    border: none;
+    align-items: center;
+
+}
